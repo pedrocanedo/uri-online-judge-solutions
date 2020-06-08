@@ -13,11 +13,43 @@ Os códigos presentes neste repositórios são as minhas soluções para os prob
 <th>Solução</th>
 </tr>
 
+
+<tr>
+<td>ESTRUTURAS E BIBLIOTECAS</td>
+<td><a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1063">1063 - Trilhos Novamente... Traçando Movimentos</a></td>
+<td> 4</td> <!-- Nível do problema -->
+<td><a href = "https://github.com/pedrocanedo/uri-online-judge-solutions/blob/master/1063.cpp">:key:</a></td>
+</tr>
+
+<tr>
+<td>ESTRUTURAS E BIBLIOTECAS</td>
+<td><a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1068">1068 - Balanço de Parenteses I</a></td>
+<td> 5</td> <!-- Nível do problema -->
+<td><a href = "https://github.com/pedrocanedo/uri-online-judge-solutions/blob/master/1068.cpp">:key:</a></td>
+</tr>
+
+
+<tr>
+<td>ESTRUTURAS E BIBLIOTECAS</td>
+<td><a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1261">1261 - Pontos de Feno</a></td>
+<td> 2</td> <!-- Nível do problema -->
+<td><a href = "https://github.com/pedrocanedo/uri-online-judge-solutions/blob/master/1261.cpp">:key:</a></td>
+</tr>
+
 <tr>
 <td>ESTRUTURAS E BIBLIOTECAS</td>
 <td><a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1449">1449 - O Fantástico Jaspion</a></td>
-<td> 4  </td>
+<td> 4</td> <!-- Nível do problema -->
 <td><a href = "https://github.com/pedrocanedo/uri-online-judge-solutions/blob/master/1449.cpp">:key:</a></td>
 </tr>
+
+
+<tr>
+<td>ESTRUTURAS E BIBLIOTECAS</td>
+<td><a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1861">1861 - O Hall dos Assasinos</a></td>
+<td> 5</td> <!-- Nível do problema -->
+<td><a href = "https://github.com/pedrocanedo/uri-online-judge-solutions/blob/master/1861.cpp">:key:</a></td>
+</tr>
+
 </table>
 <br />
